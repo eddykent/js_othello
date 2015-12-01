@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+#test {
+  color: gray;
+}
+
+.gspace{
+  background-color: #00ff00;
+  width:25px;
+  height:25px;
+}
+
+#gameboard{
+  background-color: #777777;
+  maxwidth: 100%;
+}
